@@ -16,6 +16,7 @@ body {
   overflow-x: hidden;
   font-family: 'Roboto', sans-serif;
   color: #FFFFFF;
+  background-color: #33425B;
 }
 
 .text-justify { /*-- Class Dropped in Bootstrap 5 --*/
@@ -585,10 +586,16 @@ h6 {
 
 
 /* CONTACT AREA */
+.contact-container {
+  display: flex;
+  justify-content: center;
+}
+
 #contact {
   display: flex;
   justify-content: center;
   align-items: center;
+  background-color: #33425B;
 }
 #contact:hover {
   display: flex;
@@ -611,8 +618,10 @@ h6 {
 
 .bi {
   color:#ffffff;
+  background-color: #33425B;
   fill: currentColor;
   padding: 0px 2px;
+  align-items: center;
 }
 
 .flow-right,
