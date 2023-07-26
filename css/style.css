@@ -304,6 +304,14 @@ a.nav-link.filter {
   right: 35px;
   font-size: 1em;
 }
+
+.faceapp-website {
+  position: absolute;
+  top:30px;
+  left: 35px;
+  font-size: 1em;
+}
+
 /* //////////////////////Card Body/////////////////////////////////// */
 
 .card-body {
