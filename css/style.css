@@ -23,9 +23,19 @@ body {
   text-align: justify;
 }
 
-/*-- Main Wrapper --*/
+/*-- Exprience Area Background---Main Wrapper --*/
+
+.experience-title-underline {
+  color: #ffffff;
+}
 .main-wrapper {
-  background: #D8E9F0;
+  background-color: #D8E9F0;
+  color: #33425B;
+}
+
+.experience-bg  {
+  background-color: #33425B;
+  color: #FFFFFF;
 }
 
 /*-- Option: Add Extra Bootstrap Column Padding --*/
