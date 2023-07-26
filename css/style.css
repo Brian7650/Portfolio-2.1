@@ -43,6 +43,12 @@ body {
   padding: 1rem;
 }
 
+/* Eduvation Area */
+.education-container {
+  background-color: #D8E9F0;
+  color:#33425B;
+}
+
 /*-- Remove Blue Browser Outline Around Buttons in Chrome --*/
 a:focus,
 button:focus {
@@ -278,6 +284,26 @@ a.nav-link.filter {
   
 }
 
+.faceapp-view {
+  position: absolute;
+  bottom: 20px;
+  left: 35px;
+  font-size: 1em;
+}
+
+.faceapp-front {
+  position: absolute;
+  bottom: 20px;
+  right: 120px;
+  font-size: 1em;
+}
+
+.faceapp-back {
+  position: absolute;
+  bottom: 20px;
+  right: 35px;
+  font-size: 1em;
+}
 /* //////////////////////Card Body/////////////////////////////////// */
 
 .card-body {
