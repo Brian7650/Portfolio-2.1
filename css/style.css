@@ -289,6 +289,7 @@ a.nav-link.filter {
   bottom: 20px;
   left: 35px;
   font-size: 1em;
+  color: #33425B;
 }
 
 .faceapp-front {
@@ -296,6 +297,7 @@ a.nav-link.filter {
   bottom: 20px;
   right: 120px;
   font-size: 1em;
+  color: #33425B;
 }
 
 .faceapp-back {
@@ -303,6 +305,7 @@ a.nav-link.filter {
   bottom: 20px;
   right: 35px;
   font-size: 1em;
+  color: #33425B;
 }
 
 .faceapp-website {
@@ -310,6 +313,7 @@ a.nav-link.filter {
   top:30px;
   left: 35px;
   font-size: 1em;
+  color: #33425B;
 }
 
 /* //////////////////////Card Body/////////////////////////////////// */
@@ -628,6 +632,10 @@ h6 {
   background-color: #33425B;
 }
 
+.item-logo {
+  width: 100%;
+  height: auto;
+}
 
 /* CONTACT AREA */
 .contact-container {
