@@ -289,7 +289,7 @@ a.nav-link.filter {
   bottom: 20px;
   left: 35px;
   font-size: 1em;
-  color: #33425B;
+  color: #f05454;
 }
 
 .faceapp-front {
@@ -297,7 +297,7 @@ a.nav-link.filter {
   bottom: 20px;
   right: 120px;
   font-size: 1em;
-  color: #33425B;
+  color: #f05454;
 }
 
 .faceapp-back {
@@ -305,7 +305,7 @@ a.nav-link.filter {
   bottom: 20px;
   right: 35px;
   font-size: 1em;
-  color: #33425B;
+  color: #f05454;
 }
 
 .faceapp-website {
@@ -313,7 +313,7 @@ a.nav-link.filter {
   top:30px;
   left: 35px;
   font-size: 1em;
-  color: #33425B;
+  color: #f05454;
 }
 
 /* //////////////////////Card Body/////////////////////////////////// */
