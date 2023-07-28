@@ -227,6 +227,10 @@ img {
   font-weight: normal;
 }
 
+.techSkillsText {
+  font-size:20px;
+}
+
 /*============= PORTFOLIO GALLERY FILTER / LIGHTBOX =============*/
 /* project under */
 .title-underline-projects {
@@ -286,7 +290,7 @@ a.nav-link.filter {
 
 .faceapp-view {
   position: absolute;
-  bottom: 20px;
+  bottom: 35px;
   left: 35px;
   font-size: 1em;
   color: #f05454;
@@ -294,7 +298,7 @@ a.nav-link.filter {
 
 .faceapp-front {
   position: absolute;
-  bottom: 20px;
+  bottom:35px;
   right: 120px;
   font-size: 1em;
   color: #f05454;
@@ -302,7 +306,7 @@ a.nav-link.filter {
 
 .faceapp-back {
   position: absolute;
-  bottom: 20px;
+  bottom:35px;
   right: 35px;
   font-size: 1em;
   color: #f05454;
