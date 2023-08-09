@@ -703,3 +703,11 @@ h2, h3 {
 .lead {
   size: 200px;
 }
+
+/* Custom styles for Logo Brands .owl-item */
+.item-logo {
+  /* Add your custom styles here */
+  height: 210px;
+  width: 210px;
+  /* Other style properties */
+}
